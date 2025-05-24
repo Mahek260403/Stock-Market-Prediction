@@ -1,0 +1,13 @@
+prefix=/Users/mahekqureshi/Desktop/Stock_Market(Real-time-prediction)/venv_stock
+exec_prefix=/Users/mahekqureshi/Desktop/Stock_Market(Real-time-prediction)/venv_stock
+libdir=/Users/mahekqureshi/Desktop/Stock_Market(Real-time-prediction)/venv_stock/lib
+sharedlibdir=/Users/mahekqureshi/Desktop/Stock_Market(Real-time-prediction)/venv_stock/lib
+includedir=/Users/mahekqureshi/Desktop/Stock_Market(Real-time-prediction)/venv_stock/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

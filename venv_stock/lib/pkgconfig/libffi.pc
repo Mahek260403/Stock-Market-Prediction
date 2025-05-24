@@ -1,0 +1,11 @@
+prefix=/Users/mahekqureshi/Desktop/Stock_Market(Real-time-prediction)/venv_stock
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/mahekqureshi/Desktop/Stock_Market(Real-time-prediction)/venv_stock/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.4
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}
