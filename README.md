@@ -21,7 +21,7 @@ A real-time web application that tracks **NIFTY 50 index** and predicts **next-d
 | Data            | `yfinance`, `pandas`, `numpy`    |
 | Dashboard       | `Streamlit`, `Plotly`            |
 | ML Model        | `TensorFlow` / `Keras`, `scikit-learn` |
-| Deployment      | GitHub, Streamlit Cloud (optional) |
+| Deployment      | GitHub, Streamlit Cloud  |
 
 ---
 
