@@ -7,11 +7,11 @@ Users can upload their own stock market CSV files and instantly explore historic
 
 ## Features  
 
-✅ Upload multiple CSV files (merged automatically).  
-✅ Interactive analysis with **matplotlib visualizations**.
-✅ Forecasting with **ARIMA Model**.  
-✅ Sidebar controls for data upload and forecast horizon. 
-✅ Key insights:  
+→ Upload multiple CSV files (merged automatically).  
+→ Interactive analysis with **matplotlib visualizations**.
+→ Forecasting with **ARIMA Model**.  
+→ Sidebar controls for data upload and forecast horizon. 
+→ Key insights:  
 - Historical Closing Price  
 - Daily Returns & Volatility  
 - 50-Day & 200-Day Moving Averages  
@@ -52,7 +52,7 @@ Users can select the forecast horizon (5–60 days) using a slider.
 ## How you can run it Locally
 
 ### 1️⃣ Clone the repository  
-
+https://github.com/Mahek260403/Stock-Market-Prediction.git
 
 ### 2️⃣ Create virtual environment & install dependencies
 pip install -r requirements.txt
