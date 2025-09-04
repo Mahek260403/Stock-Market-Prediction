@@ -8,9 +8,9 @@ Users can upload their own stock market CSV files and instantly explore historic
 ## Features  
 
 → Upload multiple CSV files (merged automatically).  
-→ Interactive analysis with **matplotlib visualizations**.
+→ Interactive analysis with **matplotlib visualizations**.  
 → Forecasting with **ARIMA Model**.  
-→ Sidebar controls for data upload and forecast horizon. 
+→ Sidebar controls for data upload and forecast horizon.  
 → Key insights:  
 - Historical Closing Price  
 - Daily Returns & Volatility  
