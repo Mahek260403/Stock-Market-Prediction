@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environment
+venv/
+venv_stock/
+.env/
+*.egg-info/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
+# Streamlit cache
+.streamlit/

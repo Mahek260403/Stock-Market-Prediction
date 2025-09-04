@@ -1,9 +1,23 @@
-pandas
+# Core
 numpy
-streamlit
-yfinance
-tensorflow
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Time Series Analysis
+statsmodels
+
+# Machine Learning
 scikit-learn
-plotly
-smtplib
-emailc
+
+# Deep Learning
+tensorflow
+
+# App
+streamlit
+
+# Optional (recommended for faster Streamlit reloads on macOS/Linux)
+watchdog

@@ -1,11 +1,8 @@
-#!/Users/mahekqureshi/Desktop/Stock_Market(Real-time-prediction)/venv_stock/bin/python
-
+#!/Users/mahekqureshi/Documents/ALL_PROJECTS(Mahek)/Historical-Stock-Market-Analysis-System/venv_stock/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
-
 from wheel.cli import main
-
 if __name__ == '__main__':
-    sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
     sys.exit(main())
